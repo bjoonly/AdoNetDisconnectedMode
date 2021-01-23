@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdoNetDisconnectedMode", "AdoNetDisconnectedMode\AdoNetDisconnectedMode.csproj", "{5C0FA3E1-E57D-4020-9E95-860F212E3765}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C0FA3E1-E57D-4020-9E95-860F212E3765}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C0FA3E1-E57D-4020-9E95-860F212E3765}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C0FA3E1-E57D-4020-9E95-860F212E3765}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C0FA3E1-E57D-4020-9E95-860F212E3765}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EAB4A1FC-F638-471E-8C10-582CB19BB16E}
+	EndGlobalSection
+EndGlobal
